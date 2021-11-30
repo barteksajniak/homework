@@ -1,4 +1,4 @@
 # dijkstra.py
-Exercise 5 - https://gitlab.mimuw.edu.pl/python-tools/debugger
-Widaæ, ¿e w pliku dijkstra.py problem le¿y w funkcji dijkstra oraz liœcie que.
-Usuwanie elementów z niej(funkcja pop) oraz dodawania za pomoc¹ biblioteki bisect jest najbardziej problematyczne w ca³ym programie.  
+Exercise 5 - https://gitlab.mimuw.edu.pl/python-tools/debugger <br />
+WidaÄ‡, Å¼e w pliku dijkstra.py problem leÅ¼y w funkcji dijkstra oraz liÅ›cie que. <br />
+Usuwanie elementÃ³w z niej(funkcja pop) oraz dodawania za pomocÄ… biblioteki bisect jest najbardziej problematyczne w caÅ‚ym programie.  
